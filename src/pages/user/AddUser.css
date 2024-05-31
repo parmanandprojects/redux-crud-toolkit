@@ -1,0 +1,32 @@
+.form-wrapper{
+    background-color: rgb(26, 28, 29);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://t4.ftcdn.net/jpg/05/71/83/47/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.main-form{
+    background-color: aliceblue;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.main-form .MuiOutlinedInput-notchedOutline{
+padding: 10px;
+margin: 8px;
+border: 2px solid rgb(197, 191, 191);
+}
+
+.sbmt-btn{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}

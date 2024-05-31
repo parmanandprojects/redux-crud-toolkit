@@ -1,0 +1,28 @@
+
+.userlist-wrapper{
+    height: 100vh;
+    width: 100%;
+    padding-top:20px;
+}
+.skaleton-Box{
+    height: 100vh;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.skel-wrap{
+    margin-top: 10px;
+}
+
+.action-btn td{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.no-data-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
